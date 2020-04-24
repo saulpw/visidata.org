@@ -2,6 +2,7 @@
 
 ## 2020
 
+* *2020-03-15*: [Github Issues Procedure](2020/issues)
 * *2020-02-11*: [Unloaded sheets](2020/unloaded)
 * *2020-02-09*: [New Features in 2.-3: repeat-last and repeat-input](2020/repeat)
 * *2020-02-02*: [New Feature in 2.-3: Split Window](2020/splitwin)
